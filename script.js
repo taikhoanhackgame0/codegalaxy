@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "https://zingmp3.vn/bai-hat/Co-Chac-Yeu-La-Day/Z6EE9ZZD.html"
+   "https://cdn.pixabay.com/download/audio/2023/03/13/audio_69e343d1d4.mp3"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
